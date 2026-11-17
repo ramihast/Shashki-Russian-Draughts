@@ -6,7 +6,7 @@ Play against a friend on the same device or challenge the computer with three di
 
 ## 🌐 Live Demo
 
-**[Play Shashki Online](YOUR_LIVE_DEMO_URL)**
+**[Play Shashki Online](https://ramihast.github.io/Shashki-Russian-Draughts/)**
 
 ## ✨ Features
 
